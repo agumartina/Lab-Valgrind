@@ -19,6 +19,7 @@ valgrind --leak-check=full --log-file=valgrind.txt --show-leak-kinds=definite,in
 ## Entrega
 Se debe entregar
 - El codigo fixed
+- El resultado de utilizar la herramienta __diff__ entre el original y la solución propuesta.
 - Documentación que explique lo realizado
 
 ## Ayudas
